@@ -1,0 +1,2 @@
+# cisco_ssh-python_text_file
+Python Script using Netmiko to run commands on Cisco switches (read from a list of IPs in a text file - so that you can feed it the public IPs of your Firewall or other headend equipment, and it will parse through all of the port forwards you have set up in your Firewall etc. to access your Cisco switches (generally on private IPs) that sit behind the Firewall/controller etc. in order to run the script on the switches..
